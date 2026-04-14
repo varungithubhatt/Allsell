@@ -1,3 +1,7 @@
+## Live Deployment
+
+Frontend: https://allsell-frontend.onrender.com
+
 # ALLsell - Multi-vendor E-commerce Platform
 
 ALLsell is a full-stack demo platform where users can register, create one shop, manage products in their own shop, and explore all shops/products. Admin users can moderate the platform.
