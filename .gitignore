@@ -1,0 +1,11 @@
+# Root-level dependencies
+/node_modules/
+
+# Root-level accidental npm bootstrap files (this repo uses backend/ and frontend/ package manifests)
+/package.json
+/package-lock.json
+
+# Logs and OS files
+*.log
+.DS_Store
+Thumbs.db
